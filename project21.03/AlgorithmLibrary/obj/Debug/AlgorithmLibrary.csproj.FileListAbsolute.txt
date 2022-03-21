@@ -1,0 +1,6 @@
+C:\Users\diana\Desktop\project21.03\project21.03\AlgorithmLibrary\bin\Debug\AlgorithmLibrary.dll
+C:\Users\diana\Desktop\project21.03\project21.03\AlgorithmLibrary\bin\Debug\AlgorithmLibrary.pdb
+C:\Users\diana\Desktop\project21.03\project21.03\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.csproj.AssemblyReference.cache
+C:\Users\diana\Desktop\project21.03\project21.03\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\project21.03\project21.03\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.dll
+C:\Users\diana\Desktop\project21.03\project21.03\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.pdb
